@@ -28,10 +28,7 @@ A classic Pacman game implemented in Python using the Turtle graphics library. T
     pip install freegames
     ```
 
-2. Run the game:
-    ```bash
-    python Pacman\ Game.py
-    ```
+2. Run the game.
 
 ## Gameplay
 
